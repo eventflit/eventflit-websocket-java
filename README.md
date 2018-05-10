@@ -49,7 +49,7 @@ The eventflit-java-client is available in Maven Central.
     <dependency>
       <groupId>com.eventflit</groupId>
       <artifactId>eventflit-java-client</artifactId>
-      <version>1.8.0</version>
+      <version>0.1.0</version>
     </dependency>
 </dependencies>
 ```
