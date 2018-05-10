@@ -1,5 +1,5 @@
-Eventflit Java Library
-http://eventflit.com/
+Pusher Java Library
+http://pusher.com/
 
-Copyright 2013, Eventflit
+Copyright 2013, Pusher
 Released under the MIT licence.
