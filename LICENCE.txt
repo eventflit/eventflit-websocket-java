@@ -1,0 +1,5 @@
+Eventflit Java Library
+http://eventflit.com/
+
+Copyright 2013, Eventflit
+Released under the MIT licence.
